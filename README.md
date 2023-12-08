@@ -1,4 +1,4 @@
-  <article class="markdown-body entry-content container-lg f5" itemprop="text">
+<article class="markdown-body entry-content container-lg f5" itemprop="text">
     <h1 align="center" dir="auto"><a id="user-content-hello---my-name-is-amr-welcome-to-my-github-profile-"
         class="anchor" aria-hidden="true" tabindex="-1"
         href="#hello---my-name-is-amr-welcome-to-my-github-profile-"><svg class="octicon octicon-link"
@@ -11,7 +11,7 @@
       <span>💖</span>
       <a><img src="https://img.shields.io/badge/-%234ea94b.svg?&style=plastic&logo=mongodb&logoColor=white" /></a>
       <a><img src="https://img.shields.io/badge/-%23404d59.svg?&style=plastic&logo=express&logoColor=white" /></a>
-       <a><img src="https://img.shields.io/badge/-%230F9D58.svg?style=plastic&amp;logo=Node.Js&amp;logoColor=white"></a>
+      <a><img src="https://img.shields.io/badge/-%230F9D58.svg?style=plastic&amp;logo=Node.Js&amp;logoColor=white"></a>
       <span>💖</span>
     </h1>
     <br>
@@ -116,13 +116,8 @@
           style="max-width: 100%;"></a>
       <a><img
           src="https://img.shields.io/badge/CSS%203%20-%231572B6.svg?&style=plastic&logo=css3&logoColor=white" /></a>
-      
       <a><img
           src="https://img.shields.io/badge/BootStrap%20-%23563D7C.svg?&style=plastic&logo=bootstrap&logoColor=white" /></a>
-      
-   
-      
-       
     <h2 dir="auto"><a id="user-content-im-currently-learning" class="anchor" aria-hidden="true" tabindex="-1"
         href="#im-currently-learning"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16"
           height="16" aria-hidden="true">
@@ -131,11 +126,11 @@
           </path>
         </svg></a>📌 I’m currently learning </h2>
     <p dir="auto" align="center">
-      
+
       <a><img
-        src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=plastic&logo=javascript&logoColor=%23F7DF1E" /></a>
-      
-       
+          src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=plastic&logo=javascript&logoColor=%23F7DF1E" /></a>
+
+
       <a>
         <img src="https://img.shields.io/badge/-Flutter-%230095D5?style=plastic&logo=flutter&logoColor=white" />
       </a>
@@ -218,4 +213,3 @@
           style="max-width: 100%;"></a>
     </p>
   </article>
-
