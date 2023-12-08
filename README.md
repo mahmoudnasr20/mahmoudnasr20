@@ -126,18 +126,14 @@
           </path>
         </svg></a>📌 I’m currently learning </h2>
     <p dir="auto" align="center">
-
       <a><img
           src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=plastic&logo=javascript&logoColor=%23F7DF1E" /></a>
-
-
-      <a>
+        <a>
         <img src="https://img.shields.io/badge/-Flutter-%230095D5?style=plastic&logo=flutter&logoColor=white" />
       </a>
       <a>
         <img src="https://img.shields.io/badge/-Dart-%230095D5?style=plastic&logo=dart&logoColor=white" />
       </a>
-
     </p>
     <h2 dir="auto"><a id="user-content-languages-and-tools--" class="anchor" aria-hidden="true" tabindex="-1"
         href="#languages-and-tools--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16"
